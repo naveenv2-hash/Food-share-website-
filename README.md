@@ -69,8 +69,6 @@ All demo accounts use password `FoodShare123!`.
    git push -u origin main
    ```
 
-4. Replace `YOUR-USERNAME` with your GitHub username.
-5. Do not upload `.env`, passwords, database credentials, or JWT secrets. `.gitignore` excludes `.env`.
 
 ## Deploying
 
