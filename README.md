@@ -1,4 +1,5 @@
-# FoodShare — Community Food Surplus & Donation WEBSITE
+
+# FoodShare — Community Food Surplus & Donation Website
 
 FoodShare helps food donors share surplus food with NGOs, shelters, and community groups. This is a full-stack starter project with a responsive frontend, Express REST API, role-based accounts, donation listings, claims, and an admin view.
 
